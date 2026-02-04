@@ -119,6 +119,38 @@ This project demonstrates:
 
 ---
 
+🔑 How to Access MargDarshak AI
+
+MargDarshak AI can be accessed in multiple ways, depending on how it is deployed.
+
+✅ Option 1: Access via ChatGPT
+
+Requirements:
+- ChatGPT account
+- ChatGPT Plus / Team / Enterprise plan (required for Custom GPTs)
+
+Steps:
+- Open ChatGPT
+- Click on Explore GPTs
+- Select Create a GPT
+- In the Configure section:
+--- Name: MargDarshak AI
+--- Description: AI-powered travel guide for routes, budget planning, and local assistance
+--- Paste the system prompt provided in this project into the Instructions field
+
+Upload:
+- Project documentation (optional)
+- Destination datasets (optional)
+Access MargDarshak AI anytime from your My GPTs section
+
+✅ Option 2: Access via Shareable GPT Link
+
+Link: https://chatgpt.com/g/g-6983746c0708819182952f6a305e046a-margdarshak-ai
+
+Users can access MargDarshak AI directly (based on GPT visibility settings)
+
+---
+
 ## 👤 Author
 
 **Praveen Kumar**  
